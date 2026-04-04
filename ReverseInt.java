@@ -1,4 +1,4 @@
-class ReverseInt {
+class ReverseInt {  // rename ReverseInt -> Solution in Leetcode.
     public int reverse(int x) {
 
         int rev = 0;
