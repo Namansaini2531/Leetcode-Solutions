@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -16,6 +17,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
