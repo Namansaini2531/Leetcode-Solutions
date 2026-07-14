@@ -6,6 +6,7 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3467-transform-array-by-parity](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -20,4 +21,12 @@
 | [1920-build-array-from-permutation](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
