@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1920-build-array-from-permutation](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -61,5 +62,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
