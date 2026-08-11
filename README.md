@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
