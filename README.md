@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
