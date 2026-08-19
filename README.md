@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2469-convert-the-temperature](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -103,4 +104,5 @@
 | ------- |
 | [0136-single-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
