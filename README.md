@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3467-transform-array-by-parity](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -85,10 +87,12 @@
 | [0169-majority-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -111,4 +115,20 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
