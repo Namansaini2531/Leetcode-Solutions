@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
