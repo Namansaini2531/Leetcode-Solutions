@@ -23,6 +23,7 @@
 | [1929-concatenation-of-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3467-transform-array-by-parity](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -33,6 +34,7 @@
 | [2469-convert-the-temperature](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
