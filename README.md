@@ -53,6 +53,7 @@
 | [0169-majority-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -124,6 +125,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 ## String Matching
