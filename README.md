@@ -173,10 +173,12 @@
 | [0242-valid-anagram](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
