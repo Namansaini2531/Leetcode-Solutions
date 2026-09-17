@@ -35,6 +35,7 @@
 | [0836-rectangle-overlap](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2469-convert-the-temperature](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -196,4 +197,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
