@@ -19,6 +19,7 @@
 | [0260-single-number-iii](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
