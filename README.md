@@ -35,6 +35,7 @@
 | [0509-fibonacci-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -104,6 +105,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [2396-strictly-palindromic-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
