@@ -17,6 +17,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -31,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -59,6 +61,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -132,6 +135,7 @@
 | [0169-majority-element](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -142,12 +146,14 @@
 | [0136-single-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
