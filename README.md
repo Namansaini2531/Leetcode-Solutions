@@ -80,6 +80,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -221,4 +222,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Namansaini2531/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
